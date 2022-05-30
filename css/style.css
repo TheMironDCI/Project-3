@@ -201,7 +201,7 @@ input{
 @media screen and (max-width: 576px) {
     .container-grid {
         display: grid;
-        width: 450px;
+        width: 300px;
         margin: 0 auto;
     }
     header .container-grid {
